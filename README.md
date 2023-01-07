@@ -1,5 +1,5 @@
 #### About
-- 👋 Hi, I’m Ironegg.
+- 👋 Hi, I’m **Ironegg**.
 - 👨‍🎓 A high school student.
 - 🐣 Only write code that is typeset like rubbish.
 - 🌏 Have a low level of English.
